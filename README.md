@@ -1,7 +1,7 @@
 <!--
   ╔══════════════════════════════════════════════════════════════╗
   ║   GitHub Profile README — Sal                                ║
-  ║   Before publishing: find-and-replace YOUR_USERNAME below    ║
+  ║   Before publishing: find-and-replace salthekal below    ║
   ║   Repo name must equal your GitHub username, exactly.        ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
@@ -13,15 +13,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Sal&fontSize=80&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Physicist%20%E2%9C%95%20Engineer%20%E2%9C%95%20Operator&descAlignY=60&descAlign=50&descSize=18" width="100%" alt="header" />
 
 <!-- Typing animation — rotates through your roles -->
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/salthekal">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=700&color=4F7DF3&center=true&vCenter=true&width=720&lines=Data+%26+Operations+Lead+%E2%80%94+Future+Link+for+Logistics;Physicist+turned+Full-Stack+Engineer+%E2%9A%9B%EF%B8%8F;Building+AI-integrated+ERP%2FCRM+systems;Exploring+AIOps%2C+LLMs%2C+and+applied+ML;CERN+%2F+INFN+alum+%E2%80%94+now+shipping+production+software" alt="rotating roles" />
 </a>
 
 <br/>
 
 <!-- Visitor counter + follower badge -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat&color=0e75b6" alt="followers" />
+<img src="https://komarev.com/ghpvc/?username=salthekal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://img.shields.io/github/followers/salthekal?label=Followers&style=flat&color=0e75b6" alt="followers" />
 <img src="https://img.shields.io/badge/Based%20in-Jeddah%2C%20KSA-orange?style=flat" alt="location" />
 
 </div>
@@ -157,7 +157,7 @@ mission:     Build software where physics-style rigor meets real operations
         <b>Scale:</b> built to run from 50 → 500+ couriers across 6 Saudi cities
       </p>
       <p>
-        <a href="https://github.com/YOUR_USERNAME/LastMileFoodFleet">
+        <a href="https://github.com/salthekal/LastMileFoodFleet">
           <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="view repo" />
         </a>
       </p>
@@ -177,20 +177,20 @@ mission:     Build software where physics-style rigor meets real operations
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=4F7DF3&icon_color=D97757&text_color=c9d1d9&bg_color=0d1117" />
+<a href="https://github.com/salthekal">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=salthekal&show_icons=true&count_private=true&hide_border=true&title_color=4F7DF3&icon_color=D97757&text_color=c9d1d9&bg_color=0d1117" />
 </a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=0d1117&stroke=0d1117&ring=4F7DF3&fire=D97757&currStreakLabel=4F7DF3&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+<a href="https://github.com/salthekal">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=salthekal&hide_border=true&background=0d1117&stroke=0d1117&ring=4F7DF3&fire=D97757&currStreakLabel=4F7DF3&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 </a>
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=4F7DF3&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+<a href="https://github.com/salthekal">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salthekal&layout=compact&hide_border=true&title_color=4F7DF3&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=tokyonight&utcOffset=3" />
+<a href="https://github.com/salthekal">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salthekal&theme=tokyonight&utcOffset=3" />
 </a>
 
 </div>
@@ -203,15 +203,15 @@ mission:     Build software where physics-style rigor meets real operations
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=4F7DF3&line=D97757&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=salthekal&bg_color=0d1117&color=4F7DF3&line=D97757&point=ffffff&area=true&hide_border=true" width="100%" />
 
 <br/><br/>
 
 <!-- Snake animation — needs the snake.yml workflow (see setup notes) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salthekal/salthekal/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salthekal/salthekal/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/salthekal/salthekal/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -225,7 +225,7 @@ mission:     Build software where physics-style rigor meets real operations
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=salthekal&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" />
 </a>
 
 </div>
@@ -244,7 +244,7 @@ mission:     Build software where physics-style rigor meets real operations
 <a href="mailto:YOUR_EMAIL">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/salthekal">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
