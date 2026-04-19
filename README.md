@@ -33,7 +33,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"> &nbsp; About
 
 ```yaml
-name:        Sal
+name:        Salman
 role:        Data & Operations Lead @ Future Link for Logistics
 location:    Jeddah, Saudi Arabia 🇸🇦
 origin:      Syrian national 🇸🇾
@@ -164,7 +164,7 @@ mission:     Build software where physics-style rigor meets real operations
     </td>
     <td width="45%" valign="top">
       <!-- Replace this URL with your uploaded screenshot -->
-      <img src="./assets/dashboard.png" alt="LastMileFoodFleet dashboard" width="100%" />
+      <img src="./assets/Dashboard.png" alt="LastMileFoodFleet dashboard" width="100%" />
     </td>
   </tr>
 </table>
@@ -238,10 +238,10 @@ mission:     Build software where physics-style rigor meets real operations
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/www.linkedin.com/in/salman-aboud-08b930217">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:salmanwalead@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/salthekal">
