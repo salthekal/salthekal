@@ -33,13 +33,13 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"> &nbsp; About
 
 ```yaml
-name:        Salman
+name:        Salman Aboud
 role:        Data & Operations Lead @ Future Link for Logistics
 location:    Jeddah, Saudi Arabia 🇸🇦
-origin:      Syrian national 🇸🇾
 background:  MSc Physics, Università degli Studi di Padova (CERN CLEAR / INFN thesis)
              BSc Physics, Islamic University of Madinah — ranked 1st, GPA 4.9/5.0
-stack:       TypeScript · React · Node.js · Python · PostgreSQL · Anthropic SDK
+in progress: MEng in AI Engineering @ Quantic 
+stack:       C++ · TypeScript · React · Node.js · Python · PostgreSQL · Anthropic SDK
 domains:     Last-mile logistics · AI-integrated operations · LLM tooling
 mission:     Build software where physics-style rigor meets real operations
 ```
@@ -73,8 +73,7 @@ mission:     Build software where physics-style rigor meets real operations
   the overlap between physics-grade modeling and production SRE.
 
   **🤝 &nbsp; Open to**
-  Consulting, data engineering, and product roles. Visa sponsorship required
-  for European positions.
+  Consulting, data engineering, and product roles. 
 
   </td>
 </tr>
