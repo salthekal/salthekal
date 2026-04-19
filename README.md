@@ -226,7 +226,7 @@ mission:     Build software where physics-style rigor meets real operations
 
 <div align="center">
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/salman-aboud-08b930217">
+<a href="https://www.linkedin.com/in/salman-aboud">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:salmanwalead@gmail.com">
