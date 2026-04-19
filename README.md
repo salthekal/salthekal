@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Sal&fontSize=80&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Physicist%20%E2%9C%95%20Engineer%20%E2%9C%95%20Operator&descAlignY=60&descAlign=50&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Sal&fontSize=80&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Physicist%20%E2%9C%95%20Engineer&descAlignY=60&descAlign=50&descSize=18" width="100%" alt="header" />
 
 <!-- Typing animation — rotates through your roles -->
 <a href="https://github.com/salthekal">
@@ -219,18 +219,6 @@ mission:     Build software where physics-style rigor meets real operations
 <br/>
 
 <!-- ─────────────  TROPHIES  ───────────── -->
-
-## <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" width="28px"> &nbsp; Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" />
-</a>
-
-</div>
-
-<br/>
 
 <!-- ─────────────  CONNECT  ───────────── -->
 
