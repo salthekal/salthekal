@@ -225,7 +225,7 @@ mission:     Build software where physics-style rigor meets real operations
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=salthekal&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" />
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=7" />
 </a>
 
 </div>
