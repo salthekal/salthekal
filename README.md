@@ -141,7 +141,7 @@ mission:     Build software where physics-style rigor meets real operations
 <table>
   <tr>
     <td width="55%" valign="top">
-      <h3>🚚 &nbsp; LastMileFoodFleet</h3>
+      <h3>🚚 &nbsp; 3PLink</h3>
       <p>
         Enterprise courier operations platform — <b>single system of record</b>
         for a multi-city last-mile food-delivery 3PL in Saudi Arabia. Unifies
@@ -157,14 +157,14 @@ mission:     Build software where physics-style rigor meets real operations
         <b>Scale:</b> built to run from 50 → 500+ couriers across 6 Saudi cities
       </p>
       <p>
-        <a href="https://github.com/salthekal/LastMileFoodFleet">
+        <a href="https://github.com/salthekal/3PLink">
           <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="view repo" />
         </a>
       </p>
     </td>
     <td width="45%" valign="top">
       <!-- Replace this URL with your uploaded screenshot -->
-      <img src="./assets/Dashboard.png" alt="LastMileFoodFleet dashboard" width="100%" />
+      <img src="./assets/Dashboard.png" alt="3PLink dashboard" width="100%" />
     </td>
   </tr>
 </table>
