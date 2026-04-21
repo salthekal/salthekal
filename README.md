@@ -27,13 +27,10 @@
 
 ## &nbsp; About
 
-I'm a physicist who ended up running data and operations for a multi-city last-mile logistics 3PL in Saudi Arabia, where I design and ship the software that runs the business. My background is experimental particle physics — thesis work on the **LUXE experiment at DESY** while at Padova, a rigorous training in measurement and uncertainty that I now apply to a very different kind of problem. These days I split my time between shipping production software, the **Machine Learning Specialization from DeepLearning.AI**, and quietly exploring what AIOps looks like when it's more than a buzzword.
+I'm a physicist who is AI-driven and running data and operations for a multi-city last-mile logistics 3PL in Saudi Arabia, where I design and ship the software that runs the business. My background is experimental particle physics — thesis work on the **LUXE experiment at DESY** while at Padova, a rigorous training in measurement and uncertainty that I now apply to a very different kind of problem. 
 
 ```yaml
-name:         Sal
 role:         Data & Operations Lead @ Future Link for Logistics
-location:     Jeddah, Saudi Arabia 🇸🇦
-origin:       Syrian 🇸🇾
 msc:          Università degli Studi di Padova (CERN CLEAR / INFN thesis)
 bsc:          Islamic University of Madinah — ranked 1st, GPA 4.9 / 5.0
 research:     CERN · INFN Padova · CNR-IFN · KAUST
