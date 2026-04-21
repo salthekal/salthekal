@@ -1,16 +1,16 @@
 <!-- ──────────────────────────────────────────────────────────────────── -->
-<!--  GitHub Profile README — Sal                                                                                    
+<!--  GitHub Profile README — Sal                                          -->
 <!-- ──────────────────────────────────────────────────────────────────── -->
 
 <!-- ─────────────  HEADER BANNER  ───────────── -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sal&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Physicist%20%C2%B7%20Operator%20%C2%B7%20Engineer&descAlignY=62&descAlign=50&descSize=16" width="100%" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sal&fontSize=72&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Physicist%20%C2%B7%20Operator%20%C2%B7%20Leader&descAlignY=62&descAlign=50&descSize=16" width="100%" alt="header banner" />
 
 <!-- Typing rotator — signature motion element -->
 <a href="https://github.com/salthekal">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=800&color=4F7DF3&center=true&vCenter=true&width=780&lines=Data+%26+Operations+Lead+%E2%80%94+Future+Link+for+Logistics;Physicist+turned+full-stack+engineer+%E2%9A%9B%EF%B8%8F;Building+AI-integrated+ERP%2FCRM+systems+at+scale;Exploring+AIOps%2C+applied+ML%2C+and+LLM+tooling;MSc+Padova+%C2%B7+CERN+CLEAR+%C2%B7+LUXE+%40+DESY" alt="rotating intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=800&color=4F7DF3&center=true&vCenter=true&width=820&lines=Data+%26+Operations+Lead+%E2%80%94+Future+Link+for+Logistics;Building+AI-integrated+ERP%2FCRM+systems+at+scale;Exploring+AIOps%2C+applied+ML%2C+and+LLM+tooling;On+the+path+to+C-suite+AI+%26+Data+leadership;MSc+Padova+%C2%B7+CERN+CLEAR+%C2%B7+LUXE+%40+DESY" alt="rotating intro" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@
 
 ## &nbsp; About
 
-I'm a physicist who is AI-driven and running data and operations for a multi-city last-mile logistics 3PL in Saudi Arabia, where I design and ship the software that runs the business. My background is experimental particle physics — thesis work on the **LUXE experiment at DESY** while at Padova, a rigorous training in measurement and uncertainty that I now apply to a very different kind of problem. 
+I'm a physicist who is AI-driven and running data and operations for a multi-city last-mile logistics 3PL in Saudi Arabia, where I design and ship the software that runs the business. My background is experimental particle physics — thesis work on the **LUXE experiment at DESY** while at Padova, a rigorous training in measurement and uncertainty that I now apply to a very different kind of problem.
 
 ```yaml
 role:         Data & Operations Lead @ Future Link for Logistics
@@ -80,7 +80,7 @@ mission:      build where physics-grade rigor meets real operations
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🚚 &nbsp; [3PLink](https://github.com/salthekal/3PLink)
 
@@ -95,11 +95,26 @@ Enterprise courier operations platform — **the single system of record** for a
 </sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### 🛰️ &nbsp; [StandaloneGBP](https://github.com/salthekal/StandaloneGBP)
+
+**Geant4 Monte Carlo simulation** of the LUXE Gamma Beam Profiler — the downstream detector that characterizes the photon flux in the proposed observation of non-linear QED in the Schwinger-critical-field regime. Full GBP geometry, EM physics list, digitizer module, and a systematic parameter-sweep study (CCE · gain · noise · full-scale) spanning 147 bunch-level plots. Core MSc thesis artifact.
+
+<sub>
+<img src="https://img.shields.io/badge/Geant4-4F7DF3?style=flat-square" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/ROOT-5C7CFA?style=flat-square" />
+<img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</sub>
+
+</td>
+<td width="33%" valign="top">
 
 ### ⚛️ &nbsp; [luxe-digit](https://github.com/salthekal/luxe-digit)
 
-ML-augmented detector digitization pipeline for the **LUXE Gamma Beam Profiler** at DESY — the proposed observation of non-linear QED in the Schwinger-critical-field regime. Simulates the full analog chain (charge collection → noise → crosstalk → amplification → ADC) then adds a PyTorch feature extractor with MC-dropout uncertainty on top. Built on prior work by Pietro Grutta (INFN Padova) during my MSc thesis.
+ML-augmented detector digitization pipeline **downstream of StandaloneGBP**. Simulates the full analog chain (charge collection → noise → crosstalk → amplification → ADC) then adds a PyTorch feature extractor with MC-dropout uncertainty on top of the reference ROOT fit. Built on prior work by Pietro Grutta (INFN Padova) during my MSc thesis.
 
 <sub>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
